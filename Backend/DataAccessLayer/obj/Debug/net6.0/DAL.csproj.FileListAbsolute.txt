@@ -1,0 +1,28 @@
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\harshitojha\source\repos\PresentationLayer\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\bin\Debug\net6.0\DAL.deps.json
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\bin\Debug\net6.0\DAL.dll
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\bin\Debug\net6.0\DAL.pdb
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.dll
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.pdb
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\harshitojha\source\repos\DotNet Mini Assignment-2\Backend\DataAccessLayer\obj\Debug\net6.0\ref\DAL.dll
